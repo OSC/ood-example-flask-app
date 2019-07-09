@@ -1,5 +1,5 @@
 ---
-name: Hello Python
+name: Tensorboard
 category: Jobs
 description: |-
   Example Python application using Flask.

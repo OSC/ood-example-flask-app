@@ -2,3 +2,4 @@
 # Note that specific versions may be installed:
 #  version_sensitive_depenency==1.2.3
 flask
+tensorflow==1.9
